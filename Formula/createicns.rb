@@ -1,8 +1,8 @@
 class Createicns < Formula
   desc "Create an icns file from any image."
   homepage "https://github.com/jordanbaird/createicns"
-  url "https://github.com/jordanbaird/createicns/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0672e0a06e8868adf09a9920a4d83cafd146ca051e2c1307d89be1303a897a25"
+  url "https://github.com/jordanbaird/createicns/archive/refs/tags/0.0.1.tar.gz"
+  sha256 "a188a066c66f872a143d771005941200f39cd1802cde5fb9a8232d94f3cb4490"
   license "MIT"
   
   def install
